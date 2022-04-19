@@ -1,4 +1,4 @@
-@media only screen and (min-width : 280px) and (max-width : 380px) {
+@media (min-width : 280px) and (max-width : 340px) {
     .block_best {
         width: 400%;
     }
@@ -99,11 +99,23 @@
         left: 32%;
     }
 
+    #inst {
+        margin-top: 25%;
+    }
+
     .tg {
         left: 49%;
     }
 
+    #tg {
+        margin-top: 15%;
+    }
+
     .vk {
         left: 65%
+    }
+
+    #vk {
+        margin-top: 15%;
     }
 }

@@ -234,7 +234,7 @@ body {
 .biggest_text {
     position: absolute;
     top: -25%;
-    left: 25%;
+    left: 30%;
     color: $text_best;
     font-family: Inter;
     font-size: 55px;
@@ -286,11 +286,11 @@ body {
 }
 
 #bg_photo4 {
-    margin-top: 28%;
+    margin-top: 27%;
     margin-left: 62%;
     position: absolute;
     width: 30%;
-    height: 13%;
+    height: 15%;
     border: 6px solid #000000;
     box-sizing: border-box;
     z-index: 3;
