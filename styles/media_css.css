@@ -1,0 +1,109 @@
+@media only screen and (min-width: 280px) and (max-width: 380px) {
+  .block_best {
+    width: 400%;
+  }
+
+  .text_best {
+    padding-left: 60px;
+  }
+
+  .text_h1, .text_h2, .text_h3 {
+    line-height: 40px;
+    padding-left: 60px;
+  }
+
+  .text_p1, .text_p2, .text_p3 {
+    width: 25%;
+    font-size: 25px;
+    padding-left: 60px;
+  }
+
+  #first_photo, #third_photo {
+    top: 100px;
+    padding-left: 450px;
+    height: 350px;
+    width: 23%;
+  }
+
+  #second_photo, #fourth_photo {
+    padding-left: 800px;
+    height: 350px;
+    width: 23%;
+  }
+
+  .our_home {
+    width: 400%;
+  }
+
+  .home_photo {
+    width: 100%;
+  }
+
+  #hom1_photo {
+    margin-left: 60%;
+  }
+
+  #hom2_photo {
+    margin-left: 45%;
+    margin-top: 22%;
+  }
+
+  #hom3_photo {
+    margin-left: 28%;
+    margin-top: 39%;
+  }
+
+  .biggest_text {
+    left: 25%;
+  }
+
+  .biggest_works {
+    width: 100%;
+  }
+
+  #bg_photo4 {
+    margin-top: 34%;
+  }
+
+  .more_home_bu {
+    margin-top: 55%;
+    line-height: 57px;
+  }
+
+  #photo_bu1, #photo_bu2, #photo_bu3 {
+    margin-top: 70%;
+  }
+
+  #photo_bu1 {
+    margin-left: 8%;
+  }
+
+  #photo_bu2 {
+    margin-left: 37%;
+  }
+
+  #photo_bu3 {
+    margin-left: 66%;
+  }
+
+  .soc_media {
+    margin-top: 130px;
+    width: 400%;
+  }
+
+  .here_you_are {
+    left: 32%;
+  }
+
+  .inst {
+    left: 32%;
+  }
+
+  .tg {
+    left: 49%;
+  }
+
+  .vk {
+    left: 65%;
+  }
+}
