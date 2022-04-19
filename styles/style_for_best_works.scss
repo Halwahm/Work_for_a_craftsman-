@@ -4,17 +4,16 @@ $pd-feft: 99px;
 $text_home: #000000;
 
 body {
-    // @font-face {
-    //     font-family: 'FontName'; 
-    //     src: url(/Inter/static/Inter-Thin.ttf); 
-    // }
+    height: 100%;
 }
+
+// from 380px
 
 .block_best {
     position: relative;
     background-color: $bc_best;
     width: 1519px;
-    height: 1740px;
+    min-height: 1140px;
 }
 
 .text_best {
@@ -26,7 +25,7 @@ body {
     padding-left: $pd-feft;
     color: $text_best;
     font-family: Inter;
-    font-size: 80px;
+    font-size: 60px;
     font-weight: 400;
     line-height: 97px;
     letter-spacing: 0em;
@@ -38,10 +37,10 @@ body {
     width: 40.68%;
     height: 5.99%;
     position: relative;
-    padding-top: 9%;
+    padding-top: 5%;
     padding-left: $pd-feft;
     font-family: Inter;
-    font-size: 64px;
+    font-size: 46px;
     font-weight: 400;
     line-height: 77px;
     letter-spacing: 0em;
@@ -53,11 +52,11 @@ body {
     display: block;
     position: relative;
     width: 40.68%;
-    height: 5.99%;
-    padding-top: 7%;
+    height: 3%;
+    padding-top: 2%;
     padding-left: $pd-feft;
     font-family: Inter;
-    font-size: 64px;
+    font-size: 46px;
     font-weight: 400;
     line-height: 77px;
     letter-spacing: 0em;
@@ -68,10 +67,10 @@ body {
 .text_h3 {
     display: block;
     position: relative;
-    padding-top: 7%;
+    padding-top: 2%;
     padding-left: $pd-feft;
     font-family: Inter;
-    font-size: 64px;
+    font-size: 46px;
     font-weight: 400;
     line-height: 77px;
     letter-spacing: 0em;
@@ -89,7 +88,7 @@ body {
     width: 30%;
     height: 6.58%;
     font-family: Inter;
-    font-size: 32px;
+    font-size: 22px;
     font-weight: 400;
     line-height: 39px;
     letter-spacing: 0em;
@@ -105,7 +104,7 @@ body {
     width: 30%;
     height: 6.58%;
     font-family: Inter;
-    font-size: 32px;
+    font-size: 22px;
     font-weight: 400;
     line-height: 39px;
     letter-spacing: 0em;
@@ -121,7 +120,7 @@ body {
     width: 30%;
     height: 6.58%;
     font-family: Inter;
-    font-size: 32px;
+    font-size: 22px;
     font-weight: 400;
     line-height: 39px;
     letter-spacing: 0em;
@@ -170,7 +169,7 @@ body {
 .our_home {
     position: relative;
     width: 1519px;
-    height: 3900px;
+    height: 2200px;
     background: #FFFFFF;
 }
 
@@ -179,49 +178,49 @@ body {
     padding-left: 69px;
     position: absolute;
     width: 27.9%;
-    height: 37.72%;
+    //height: 5%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 80px;
-    line-height: 116px;
+    font-size: 60px;
+    line-height: 105%;
     color: $text_home;   
 }
 
 .home_photo {
     position: relative;
     width: 1519px;
-    height: 1900px;
+    height: 1000px;
 }
 
 #hom1_photo {
     box-sizing: border-box;
     margin-top: 5%;
-    margin-left: 38%;
+    margin-left: 70%;
     position: absolute;
-    width: 33%;
-    height: 30%;
+    width: 22%;
+    height: 35%;
     border: 6px solid #000000;
 }
 
 #hom2_photo {
     box-sizing: border-box;
-    margin-top: 39%;
-    margin-left: 28%;
+    margin-top: 20%;
+    margin-left: 58%;
     position: absolute;
-    width: 33%;
-    height: 30%;
+    width: 22%;
+    height: 35%;
     z-index: 1;
     border: 6px solid #000000;
 }
 
 #hom3_photo {
     box-sizing: border-box;
-    margin-top: 73%;
-    margin-left: 20%;
+    margin-top: 35%;
+    margin-left: 47%;
     position: absolute;
-    width: 33%;
-    height: 30%;
+    width: 22%;
+    height: 35%;
     border: 6px solid #000000;
 }
 
@@ -231,15 +230,16 @@ body {
     background-color: $bc_best;
     position: relative;
     width: 1519px;
-    height: 220px;
+    height: 80px;
 }
 
 .biggest_text {
-    padding-top: 2%;
-    padding-left: 11%;
+    position: absolute;
+    top: -25%;
+    left: 25%;
     color: $text_best;
     font-family: Inter;
-    font-size: 96px;
+    font-size: 55px;
     font-weight: 400;
     line-height: 116px;
     letter-spacing: 0em;
@@ -255,88 +255,88 @@ body {
 // }
 
 #bg_photo1 {
-    margin-top: 6%;
-    margin-left: 6%;
+    margin-top: 3%;
+    margin-left: 20%;
     position: absolute;
-    width: 26.82%;
-    height: 10%;
+    width: 22%;
+    height: 15%;
     border: 6px solid #000000;
     box-sizing: border-box;
     z-index: 0;
 }
 
 #bg_photo2 {
-    margin-top: 27%;
-    margin-left: 15%;
+    margin-top: 23%;
+    margin-left: 30%;
     position: absolute;
-    width: 26.82%;
-    height: 10%;
+    width: 22%;
+    height: 15%;
     border: 6px solid #000000;
     box-sizing: border-box;
     z-index: 1;
 }
 
 #bg_photo3 {
-    margin-top: 13%;
-    margin-left: 37%;
+    margin-top: 8%;
+    margin-left: 47%;
     position: absolute;
-    width: 26.82%;
-    height: 10%;
+    width: 22%;
+    height: 15%;
     border: 6px solid #000000;
     box-sizing: border-box;
     z-index: 2;
 }
 
 #bg_photo4 {
-    margin-top: 35%;
-    margin-left: 50%;
+    margin-top: 28%;
+    margin-left: 62%;
     position: absolute;
-    width: 26.82%;
-    height: 10%;
+    width: 30%;
+    height: 13%;
     border: 6px solid #000000;
     box-sizing: border-box;
     z-index: 3;
 }
 
 .more_home_bu {
-    margin-top: 70%;
+    margin-top: 50%;
     margin-left: 6%;
     position: absolute;
-    width: 39.49%; 
+    width: 32%; 
     height: 10.31%; 
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 80px;
+    font-size: 50px;
     line-height: 97px;
 }
 
 #photo_bu1 {
-    margin-top: 85%;
+    margin-top: 65%;
     margin-left: 6%;
     position: absolute;
     width: 25%;
-    height: 9%;
+    height: 15%;
     border: 6px solid #000000;
     box-sizing: border-box;
 }
 
 #photo_bu2 {
-    margin-top: 85%;
+    margin-top: 65%;
     margin-left: 35%;
     position: absolute;
     width: 25%;
-    height: 9%;
+    height: 15%;
     border: 6px solid #000000;
     box-sizing: border-box;
 }
 
 #photo_bu3 {
-    margin-top: 85%;
+    margin-top: 65%;
     margin-left: 64%;
     position: absolute;
     width: 25%;
-    height: 9%;
+    height: 15%;
     border: 6px solid #000000;
     box-sizing: border-box;
 }
@@ -344,60 +344,58 @@ body {
 .soc_media {
     position: relative;
     background: $bc_best;
-    margin-top: 1%;
+    margin-top: 250px;
     width: 1519px;
-    height: 369px;
+    min-height: 180px;
 }
 
 .our_media {
     position: absolute;
-    padding-top: 1%;
-    padding-left: 30%;
+    top: 5%;
+    left: 40%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 96px;
-    line-height: 116px;
+    font-size: 40px;
     color: $text_best;
 }
 
 .here_you_are {
-    padding-top: 10%;
+    top: 25%;
     position: absolute;
-    padding-left: 28%;
+    left: 35%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 55px;
-    line-height: 67px;
+    font-size: 35px;
     color: $text_best;
 }
 
 .inst {
     position: absolute;
-    margin-left: 30%;
-    margin-top: 17%;
+    left: 35%;
+    top: 50%;
     border-radius: 50%;
-    width: 7%;
-    height: 25%;
+    width: 5%;
+    height: 35%;
     background: $text_best;
 }
 
 #inst {
     position: absolute;
     width: 50%;
-    height: 60%;
+    height: 55%;
     margin-top: 18%;
     margin-left: 25%;
 }
 
 .tg {
-    margin-top: 17%;
-    margin-left: 45%;
+    top: 50%;
+    left: 46.5%;
     position: absolute;
     border-radius: 50%;
-    width: 7%;
-    height: 25%;
+    width: 5%;
+    height: 35%;
     background: $text_best;
 }
 
@@ -411,11 +409,11 @@ body {
 
 .vk {
     position: absolute;
-    margin-top: 17%;
-    margin-left: 60%;
+    top: 50%;
+    left: 58%;
     border-radius: 50%;
-    width: 7%;
-    height: 25%;
+    width: 5%;
+    height: 35%;
     background: $text_best;
 }
 
