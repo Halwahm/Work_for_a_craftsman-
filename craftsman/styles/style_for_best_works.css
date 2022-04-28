@@ -1,0 +1,411 @@
+.block_best {
+  position: relative;
+  background-color: #1B1515;
+  width: 1519px;
+  min-height: 1140px;
+}
+
+.text_best {
+  position: relative;
+  display: block;
+  width: 70%;
+  height: 6.12%;
+  padding-top: 5%;
+  padding-left: 99px;
+  color: white;
+  font-family: Inter;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 97px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.text_h1 {
+  display: block;
+  width: 40.68%;
+  height: 5.99%;
+  position: relative;
+  padding-top: 5%;
+  padding-left: 99px;
+  font-family: Inter;
+  font-size: 46px;
+  font-weight: 400;
+  line-height: 77px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+
+.text_h2 {
+  display: block;
+  position: relative;
+  width: 40.68%;
+  height: 3%;
+  padding-top: 2%;
+  padding-left: 99px;
+  font-family: Inter;
+  font-size: 46px;
+  font-weight: 400;
+  line-height: 77px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+
+.text_h3 {
+  display: block;
+  position: relative;
+  padding-top: 2%;
+  padding-left: 99px;
+  font-family: Inter;
+  font-size: 46px;
+  font-weight: 400;
+  line-height: 77px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+
+.text_p1 {
+  position: relative;
+  display: block;
+  width: 49.37%;
+  height: 17.18%;
+  padding-top: 1%;
+  padding-left: 99px;
+  width: 30%;
+  height: 6.58%;
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+
+.text_p2 {
+  display: block;
+  position: relative;
+  padding-top: 1%;
+  padding-left: 99px;
+  width: 30%;
+  height: 6.58%;
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+
+.text_p3 {
+  display: block;
+  position: relative;
+  padding-top: 1%;
+  padding-left: 99px;
+  width: 30%;
+  height: 6.58%;
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+
+.best_photo {
+  position: relative;
+}
+
+#first_photo {
+  padding-top: 118px;
+  padding-left: 700px;
+  position: absolute;
+  width: 19%;
+  height: 400px;
+}
+
+#second_photo {
+  padding-top: 180px;
+  padding-left: 1050px;
+  position: absolute;
+  width: 19%;
+  height: 400px;
+}
+
+#third_photo {
+  padding-top: 572px;
+  padding-left: 700px;
+  position: absolute;
+  width: 19%;
+  height: 400px;
+}
+
+#fourth_photo {
+  padding-top: 638px;
+  padding-left: 1050px;
+  position: absolute;
+  width: 19%;
+  height: 400px;
+}
+
+.our_home {
+  position: relative;
+  width: 1519px;
+  height: 2200px;
+  background: #FFFFFF;
+}
+
+.text_about_home {
+  padding-top: 60px;
+  padding-left: 69px;
+  position: absolute;
+  width: 27.9%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 105%;
+  color: #000000;
+}
+
+.home_photo {
+  position: relative;
+  width: 1519px;
+  height: 1000px;
+}
+
+#hom1_photo {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-top: 5%;
+  margin-left: 70%;
+  position: absolute;
+  width: 22%;
+  height: 35%;
+  border: 6px solid #000000;
+}
+
+#hom2_photo {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-top: 20%;
+  margin-left: 58%;
+  position: absolute;
+  width: 22%;
+  height: 35%;
+  z-index: 1;
+  border: 6px solid #000000;
+}
+
+#hom3_photo {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-top: 35%;
+  margin-left: 47%;
+  position: absolute;
+  width: 22%;
+  height: 35%;
+  border: 6px solid #000000;
+}
+
+.biggest_works {
+  background-color: #1B1515;
+  position: relative;
+  width: 1519px;
+  height: 80px;
+}
+
+.biggest_text {
+  position: absolute;
+  top: -25%;
+  left: 30%;
+  color: white;
+  font-family: Inter;
+  font-size: 55px;
+  font-weight: 400;
+  line-height: 116px;
+  letter-spacing: 0em;
+}
+
+#bg_photo1 {
+  margin-top: 3%;
+  margin-left: 20%;
+  position: absolute;
+  width: 22%;
+  height: 15%;
+  border: 6px solid #000000;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  z-index: 0;
+}
+
+#bg_photo2 {
+  margin-top: 23%;
+  margin-left: 30%;
+  position: absolute;
+  width: 22%;
+  height: 15%;
+  border: 6px solid #000000;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  z-index: 1;
+}
+
+#bg_photo3 {
+  margin-top: 8%;
+  margin-left: 47%;
+  position: absolute;
+  width: 22%;
+  height: 15%;
+  border: 6px solid #000000;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  z-index: 2;
+}
+
+#bg_photo4 {
+  margin-top: 27%;
+  margin-left: 62%;
+  position: absolute;
+  width: 30%;
+  height: 15%;
+  border: 6px solid #000000;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  z-index: 3;
+}
+
+.more_home_bu {
+  margin-top: 50%;
+  margin-left: 6%;
+  position: absolute;
+  width: 32%;
+  height: 10.31%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 97px;
+}
+
+#photo_bu1 {
+  margin-top: 65%;
+  margin-left: 6%;
+  position: absolute;
+  width: 25%;
+  height: 15%;
+  border: 6px solid #000000;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#photo_bu2 {
+  margin-top: 65%;
+  margin-left: 35%;
+  position: absolute;
+  width: 25%;
+  height: 15%;
+  border: 6px solid #000000;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#photo_bu3 {
+  margin-top: 65%;
+  margin-left: 64%;
+  position: absolute;
+  width: 25%;
+  height: 15%;
+  border: 6px solid #000000;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.soc_media {
+  position: relative;
+  background: #1B1515;
+  margin-top: 250px;
+  width: 1519px;
+  min-height: 180px;
+}
+
+.our_media {
+  position: absolute;
+  top: 5%;
+  left: 40%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  color: white;
+}
+
+.here_you_are {
+  top: 25%;
+  position: absolute;
+  left: 35%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  color: white;
+}
+
+.inst {
+  position: absolute;
+  left: 35%;
+  top: 50%;
+  border-radius: 50%;
+  width: 5%;
+  height: 35%;
+  background: white;
+}
+
+#inst {
+  position: absolute;
+  width: 50%;
+  height: 55%;
+  margin-top: 18%;
+  margin-left: 25%;
+}
+
+.tg {
+  top: 50%;
+  left: 46.5%;
+  position: absolute;
+  border-radius: 50%;
+  width: 5%;
+  height: 35%;
+  background: white;
+}
+
+#tg {
+  position: absolute;
+  width: 60%;
+  height: 70%;
+  margin-top: 13%;
+  margin-left: 20%;
+}
+
+.vk {
+  position: absolute;
+  top: 50%;
+  left: 58%;
+  border-radius: 50%;
+  width: 5%;
+  height: 35%;
+  background: white;
+}
+
+#vk {
+  position: absolute;
+  width: 60%;
+  height: 70%;
+  margin-top: 13%;
+  margin-left: 20%;
+}
