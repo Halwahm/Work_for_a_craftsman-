@@ -1,3 +1,110 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.main_g {
+  width: 1519px;
+  min-height: 700px;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #1B1515;
+  top: 0; 
+  width: 65%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.header {
+  margin: 3% 0 0 3%;
+  width: 25%;
+  height: 20%;
+}
+
+.head { 
+  font-size: 80px;
+}
+
+.desc_m {
+  margin: 4% 0 0 3%;
+  width: 38%;
+  height: 20%;
+}
+
+.des_m {
+  font-size: 25px;
+}
+
+.work {
+  font-size: 0.4em;
+  margin: 4% 0 0 10%;
+  background-color: #1B1515;
+  color: #ffffff;
+  width: 22%;
+  height: 60px;
+  text-align: center;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.work a {
+  float: left;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 17px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+#main_photo {
+  width: 650px;
+  height: 450px;
+  position: absolute;
+  top: 120px;
+  left: 750px;
+}
+
+.master_works {
+  background-color: #1B1515;
+  position: relative;
+  width: 1519px;
+  height: 90px;
+}
+
+.master_text {
+  text-align: center;
+  color:white;
+  padding-top: 1.5%;
+  font-size:45px;
+}
+
+.gallery {
+  width: 1519px;
+  height: 1850px;
+  position: relative; 
+}
+
+#f1 {
+  margin-left: 2.5%;
+  margin-top: 3%;
+  width: 30%;
+  height: 400px;
+}
+
 .block_best {
   position: relative;
   background-color: #1B1515;

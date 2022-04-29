@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+
+/* @media (min-width: 280px) and (max-width: 340px) {
+    .navbar {
+        overflow: hidden;
+        background-color: #1B1515;
+        top: 0; 
+        margin: 10;
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .main_g {
+        display: grid;
+        grid-template-columns: 59% 41%;
+        font-size: 5em;
+    }
+
+    .navbar a {
+        float: left;
+        display: block;
+        color: #ffffff;
+        text-align: center;
+        padding: 14px ;
+        text-decoration: none;
+        font-size: 10px;
+    }
+
+    .navbar {
+        overflow: hidden;
+        background-color: #1B1515;
+        top: 0; 
+        
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .work {
+        font-size: 0.4em;
+        margin: 20%;
+        background-color: #1B1515;
+        color: #ffffff;
+        width: 100%;
+        height: 60px;
+        margin: 2em;
+        text-align: center;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .header {
+      padding-top: 1%;
+      font-size: 22px;
+      padding-left: 5%;
+    }
+
+    .desc_m {
+      padding-top: 1%;
+      font-size: 15px;
+      padding-left: 5%;
+    }
+    
+    #main_photo {
+        width: 8em;
+        position: absolute;
+        top: 9.4%;  
+        margin-left: 55%;
+    }
+
+    .master_works {
+        background-color: #1B1515;
+        position: relative;
+        width: 100%;
+        height: 320px;
+    }
+
+    .master_text {
+        position:absolute;
+        top:+13%;
+        left: 25%;
+        color:white;
+        font-size:55px;
+        font-weight:350px;
+        line-height:116px;
+        letter-spacing:0em
+    }
+
+    .gallery {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin: 0.5em;
+    }
+
+    .gallery img {
+        margin: 1em;
+        width: 70px;
+        height: 90px;
+    }
+    
+}
+
+@media (min-width: 341px) and (max-width: 730px) {
+
+    .main_g {
+        display: grid;
+        grid-template-columns: 70% 30%;
+        font-size: 5em;
+    }
+
+    .navbar {
+        overflow: hidden;
+        background-color: #1B1515;
+        top: 0; 
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .navbar a {
+        float: left;
+        display: block;
+        color: #ffffff;
+        text-align: center;
+        padding: 25px ;
+        text-decoration: none;
+        font-size: 10px;
+    }
+
+    #main_photo {
+        width: 11em;
+        position: absolute;
+        top: 13%;
+        margin-left: 79%;
+    }
+
+    .master_works {
+        background-color: #1B1515;
+        position: relative;
+        width: 100%;
+        height: 320px;
+    }
+
+    .master_text {
+        position:absolute;
+        top:+13%;
+        left: 25%;
+        color:white;
+        font-size:55px;
+        font-weight:350px;
+        line-height:116px;
+        letter-spacing:0em
+    }
+
+    .header {
+        padding-top: 1%;
+        font-size: 40px;
+        padding-left: 5%;
+      }
+
+    .desc_m {
+        padding-top: 1%;
+        font-size: 20px;
+        padding-left: 5%;
+    }
+
+    .work {
+        font-size: 0.4em;
+        margin: 20%;
+        background-color: #1B1515;
+        color: #ffffff;
+        width: 100%;
+        height: 60px;
+        margin: 2em;
+        text-align: center;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .gallery {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin: 0.5em;
+    }
+
+    .gallery img {
+        margin: 1em;
+        width: 70px;
+        height: 90px;
+    }
+
+}
+
+@media (min-width: 731px) and (max-width: 1245px) {
+
+    .main_g {
+        display: grid;
+        grid-template-columns: 70% 30%;
+        font-size: 5em;
+    }
+
+    .navbar {
+        overflow: hidden;
+        background-color: #1B1515;
+        top: 0; 
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .navbar a {
+        float: left;
+        display: block;
+        color: #ffffff;
+        text-align: center;
+        padding: 25px ;
+        text-decoration: none;
+        font-size: 10px;
+    }
+
+    #main_photo {
+        width: 14em;
+        position: absolute;
+        top: 15%;
+        margin-left: 71%;
+    }
+
+    .master_works {
+        background-color: #1B1515;
+        position: relative;
+        width: 100%;
+        height: 170px;
+    }
+
+    .master_text {
+        position:absolute;
+        top:+13%;
+        left: 25%;
+        color:white;
+        font-size:55px;
+        font-weight:350px;
+        line-height:116px;
+        letter-spacing:0em
+    }
+
+    .header {
+        padding-top: 1%;
+        font-size: 40px;
+        padding-left: 5%;
+      }
+
+    .desc_m {
+        padding-top: 1%;
+        font-size: 20px;
+        padding-left: 5%;
+    }
+
+    .work {
+        font-size: 0.4em;
+        margin: 20%;
+        background-color: #1B1515;
+        color: #ffffff;
+        width: 100%;
+        height: 60px;
+        margin: 2em;
+        text-align: center;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .gallery {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin: 2em;
+    }
+
+    .gallery img {
+        margin: 1em;
+        width: 160px;
+        height: 190px;
+    }
+
+}
+
+@media (min-width: 340px) and (max-width: 365px) {
+
+    #main_photo {
+        width: 12em;
+        position: absolute;
+        top: 14%;
+        margin-left: 71%;
+    }
+
+    .main_g {
+        display: grid;
+        grid-template-columns: 70% 30%;
+        font-size: 4em;
+    }
+
+    .header {
+        padding-top: 1%;
+        font-size: 35px;
+        padding-left: 5%;
+      }
+
+}
+
+@media (min-width: 380px) and (max-width: 1244px) {
+
+    #main_photo {
+        width: 35%;
+        position: absolute;
+        top: 12%;
+        margin-left: 71%;
+    }
+
+} */
