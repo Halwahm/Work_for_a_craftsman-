@@ -38,7 +38,7 @@ html {
 
 .desc_m {
   margin: 4% 0 0 3%;
-  width: 38%;
+  width: 45%;
   height: 20%;
 }
 
@@ -47,7 +47,7 @@ html {
 }
 
 .work {
-  font-size: 0.4em;
+  /* font-size: 0.4em; */
   margin: 4% 0 0 10%;
   background-color: #1B1515;
   color: #ffffff;
@@ -67,12 +67,12 @@ html {
   text-align: center;
   padding: 17px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 #main_photo {
-  width: 650px;
-  height: 450px;
+  width: 630px;
+  height: 430px;
   position: absolute;
   top: 120px;
   left: 750px;
@@ -88,8 +88,8 @@ html {
 .master_text {
   text-align: center;
   color:white;
-  padding-top: 1.5%;
-  font-size:45px;
+  padding-top: 1%;
+  font-size: 50px;
 }
 
 .gallery {
