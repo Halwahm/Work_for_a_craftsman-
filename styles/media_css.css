@@ -79,7 +79,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4 {
     height: 0;
     background: none;
@@ -273,7 +273,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4_last {
     height: 0;
     background: none;
@@ -318,7 +318,6 @@
     margin-top: 15%;
   }
 }
-
 @media (min-width: 301px) and (max-width: 336px) {
   .main_g {
     width: 100%;
@@ -339,7 +338,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4 {
     height: 0;
     background: none;
@@ -354,7 +353,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4_last {
     height: 0;
     background: none;
@@ -640,7 +639,6 @@
     margin-top: 15%;
   }
 }
-
 @media (min-width: 336px) and (max-width: 360px) {
   .main_g {
     width: 100%;
@@ -661,7 +659,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4 {
     height: 0;
     background: none;
@@ -676,7 +674,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4_last {
     height: 0;
     background: none;
@@ -762,8 +760,9 @@
   }
 
   .block_best {
+    margin-top: 50px;
     width: 100%;
-    min-height: 550px;
+    min-height: 570px;
   }
 
   .text_best {
@@ -968,8 +967,6 @@
     margin-top: 15%;
   }
 }
-
-
 @media (min-width: 361px) and (max-width: 382px) {
   .main_g {
     width: 100%;
@@ -990,7 +987,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4 {
     height: 0;
     background: none;
@@ -1005,7 +1002,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4_last {
     height: 0;
     background: none;
@@ -1291,9 +1288,7 @@
   #vk {
     margin-top: 15%;
   }
-
 }
-
 @media (min-width: 382px) and (max-width: 390px) {
   .main_g {
     width: 100%;
@@ -1314,7 +1309,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4 {
     height: 0;
     background: none;
@@ -1329,7 +1324,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4_last {
     height: 0;
     background: none;
@@ -1615,9 +1610,7 @@
   #vk {
     margin-top: 12%;
   }
-
 }
-
 @media (min-width: 391px) and (max-width: 413px) {
   .main_g {
     width: 100%;
@@ -1638,7 +1631,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4 {
     height: 0;
     background: none;
@@ -1653,7 +1646,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4_last {
     height: 0;
     background: none;
@@ -1945,7 +1938,6 @@
     margin-top: 12%;
   }
 }
-
 @media (min-width: 390px) and (max-width: 413px) {
   .main_g {
     width: 100%;
@@ -1966,7 +1958,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4 {
     height: 0;
     background: none;
@@ -1981,7 +1973,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4_last {
     height: 0;
     background: none;
@@ -2268,7 +2260,6 @@
     margin-top: 12%;
   }
 }
-
 @media (min-width: 413px) and (max-width: 425px) {
   .main_g {
     width: 100%;
@@ -2289,7 +2280,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4 {
     height: 0;
     background: none;
@@ -2304,7 +2295,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4_last {
     height: 0;
     background: none;
@@ -2591,7 +2582,6 @@
     margin-top: 12%;
   }
 }
-
 @media (min-width: 425px) and (max-width: 440px) {
   .main_g {
     width: 100%;
@@ -2612,7 +2602,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4 {
     height: 0;
     background: none;
@@ -2627,7 +2617,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4_last {
     height: 0;
     background: none;
@@ -2914,7 +2904,6 @@
     margin-top: 12%;
   }
 }
-
 @media (min-width: 440px) and (max-width: 455px) {
   .main_g {
     width: 100%;
@@ -2935,7 +2924,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4 {
     height: 0;
     background: none;
@@ -2950,7 +2939,7 @@
     height: 0;
     background: none;
   }
-  
+
   .st4_last {
     height: 0;
     background: none;
@@ -3237,7 +3226,6 @@
     margin-top: 12%;
   }
 }
-
 @media (min-width: 455px) and (max-width: 1200px) {
   .des_m {
     font-size: 45px;
@@ -3248,15 +3236,15 @@
   }
 
   .st1j2 {
-  min-height: 700px;
-  background: url(/strih/strih/2.png) -30% 130% no-repeat;
-  background-size: 50% 60%;
+    min-height: 700px;
+    background: url(/strih/strih/2.png) -30% 130% no-repeat;
+    background-size: 50% 60%;
   }
 
- .st1j1 {
-  min-height: 700px;
-  background: url(/strih/strih/1.png) 105% 100% no-repeat;
-  background-size: 15% 50%;
+  .st1j1 {
+    min-height: 700px;
+    background: url(/strih/strih/1.png) 105% 100% no-repeat;
+    background-size: 15% 50%;
   }
 
   .navbar a {
@@ -3272,11 +3260,11 @@
   }
 
   .text_best {
-    font-size: 60px
+    font-size: 60px;
   }
 
   .text_h1, .text_h2, .text_h3 {
-    font-size: 50px
+    font-size: 50px;
   }
 
   .text_p1, .text_p2, .text_p3 {
