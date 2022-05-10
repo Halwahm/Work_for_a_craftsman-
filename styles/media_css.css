@@ -704,15 +704,14 @@
 
   .work {
     width: 70%;
-    height: 50px;
+    height: 52px;
     margin-top: 10%;
     margin-left: 15%;
     margin-bottom: 40px;
-    /* font-size: 10px; */
   }
 
   .work_text {
-    font-size: 10px;
+    font-size: 9px;
   }
 
   #main_photo {
@@ -725,7 +724,7 @@
   }
 
   .onphoto {
-    top: 70px;
+    top: 80px;
     left: 0;
     position: absolute;
     width: 50%;
@@ -964,7 +963,7 @@
 }
 
 
-@media (min-width: 360px) and (max-width: 382px) {
+@media (min-width: 361px) and (max-width: 382px) {
   .main_g {
     width: 100%;
     min-height: 350px;
@@ -1048,7 +1047,7 @@
   }
 
   .onphoto {
-    top: 70px;
+    top: 71px;
     left: 0;
     position: absolute;
     width: 50%;
