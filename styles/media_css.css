@@ -3235,6 +3235,18 @@
     margin-top: 30px;
   }
 
+  .st1j2 {
+  min-height: 700px;
+  background: url(/strih/strih/2.png) -30% 130% no-repeat;
+  background-size: 50% 60%;
+  }
+
+ .st1j1 {
+  min-height: 700px;
+  background: url(/strih/strih/1.png) 105% 100% no-repeat;
+  background-size: 15% 50%;
+  }
+
   .navbar a {
     font-size: 30px;
   }

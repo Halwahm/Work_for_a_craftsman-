@@ -15,7 +15,8 @@ html {
 
 .st1j1 {
   min-height: 700px;
-  background: url(/strih/strih/1.png) 1380px 295px no-repeat;
+  background: url(/strih/strih/1.png) 106% 100% no-repeat;
+  background-size: 15% 60%;
 }
 
 .navbar {
