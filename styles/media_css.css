@@ -1411,7 +1411,7 @@
   .block_best {
     margin-top: 25px;
     width: 100%;
-    min-height: 500px;
+    min-height: 550px;
   }
 
   .text_best {
@@ -1424,12 +1424,12 @@
     padding-top: 5px;
     line-height: 25px;
     padding-left: 5%;
-    font-size: 30px;
+    font-size: 29px;
   }
 
   .text_p1, .text_p2, .text_p3 {
     width: 40%;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 15px;
     padding-left: 5%;
   }
@@ -1735,17 +1735,21 @@
   .block_best {
     margin-top: 25px;
     width: 100%;
-    min-height: 500px;
+    height: 600px;
   }
 
   .text_best {
     padding-top: 1%;
-    font-size: 40px;
+    font-size: 35px;
     padding-left: 5%;
   }
 
-  .text_h1, .text_h2, .text_h3 {
-    padding-top: 5px;
+  .text_h1 {
+    margin-top: 45px;
+  }
+
+  .text_h2, .text_h3 {
+    margin-top: 15px;
     line-height: 25px;
     padding-left: 5%;
     font-size: 30px;
@@ -1753,8 +1757,9 @@
 
   .text_p1, .text_p2, .text_p3 {
     width: 40%;
+    margin-top: 10px;
     font-size: 15px;
-    line-height: 15px;
+    line-height: 13px;
     padding-left: 5%;
   }
 
@@ -1896,11 +1901,11 @@
 
   .our_media {
     font-size: 15px;
-    left: 38%;
+    left: 40%;
   }
 
   .here_you_are {
-    left: 32%;
+    left: 30%;
     font-size: 13px;
   }
 
@@ -2219,11 +2224,11 @@
 
   .our_media {
     font-size: 15px;
-    left: 38%;
+    left: 40%;
   }
 
   .here_you_are {
-    left: 32%;
+    left: 30%;
     font-size: 13px;
   }
 
@@ -2542,11 +2547,11 @@
 
   .our_media {
     font-size: 15px;
-    left: 38%;
+    left: 40%;
   }
 
   .here_you_are {
-    left: 32%;
+    left: 30%;
     font-size: 13px;
   }
 
