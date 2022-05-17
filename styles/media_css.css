@@ -1735,12 +1735,12 @@
   .block_best {
     margin-top: 25px;
     width: 100%;
-    min-height: 500px;
+    min-height: 540px;
   }
 
   .text_best {
     padding-top: 1%;
-    font-size: 40px;
+    font-size: 30px;
     padding-left: 5%;
   }
 
