@@ -9,13 +9,13 @@ html {
 
 .st1j2 {
   min-height: 700px;
-  background: url(strih/2.png) -30% 140% no-repeat;
+  background: url(../strih/2.png) -30% 140% no-repeat;
   background-size: 50% 50%;
 }
 
 .st1j1 {
   min-height: 700px;
-  background: url(strih/1.png) 106% 100% no-repeat;
+  background: url(../strih/1.png) 106% 100% no-repeat;
   background-size: 15% 60%;
 }
 
