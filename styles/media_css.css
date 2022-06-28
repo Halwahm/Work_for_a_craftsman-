@@ -794,28 +794,28 @@
 
   #first_photo {
     padding-top: 100px;
-    padding-left: 145px;
+    padding-left: 150px;
     height: 100px;
     width: 25%;
   }
 
   #third_photo {
     padding-top: 215px;
-    padding-left: 145px;
+    padding-left: 150px;
     height: 100px;
     width: 25%;
   }
 
   #second_photo {
     padding-top: 120px;
-    padding-left: 250px;
+    padding-left: 255px;
     height: 100px;
     width: 25%;
   }
 
   #fourth_photo {
     padding-top: 235px;
-    padding-left: 250px;
+    padding-left: 255px;
     height: 100px;
     width: 25%;
   }
